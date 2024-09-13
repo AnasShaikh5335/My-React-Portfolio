@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "role": "ADVANCED PROGRAM IN JAVA FULL STACK DEVELOPEMENT",
+    "college": "DVOC INSTITUTE",
+    "startDate": "Oct,2023",
+    "endDate": "Sept,2024",
+    "location": "Mumbai India"
+  },
+  {
+    "id": 2,
+    "role": "BSc in Chemistry",
+    "college": "Bhavan's College",
+    "startDate": "June,2020",
+    "endDate": "Sept,2023",
+    "location": "Mumbai India"
+  },
+  {
+    "id": 3,
+    "role": "HSC",
+    "college": "Ismail Yusuf College",
+    "startDate": "May,2018",
+    "endDate": "Feb,2019",
+    "location": "Mumbai India"
+  },
+  {
+    "id": 4,
+    "role": "SSC",
+    "college": "St.Xavier's High School",
+    "startDate": "May,2016",
+    "endDate": "Mar,2017",
+    "location": "Mumbai India"
+  }
+]
