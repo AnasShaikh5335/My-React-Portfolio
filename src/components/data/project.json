@@ -3,28 +3,28 @@
     "key": 1,
     "title": "Hospital Management System",
     "imageSrc": "projects/hospital.jpg",
-    "description": "react project",
-    "source": "https://www.github.com"
+    "description": "This project, built with advanced Java and SQL, offers a healthcare management system where admins, doctors, and patients can access and manage tailored functionalities and data.",
+    "source": "https://github.com/AnasShaikh5335/Hospital-Management-System"
   },
   {
     "key": 2,
     "title": "Bus Booking System",
     "imageSrc": "projects/bus.jpg",
-    "description": "react project",
+    "description": "This project, built with core Java and MySQL, allows users to book tickets and download them as PDFs, offering a convenient and efficient ticket management solution.",
     "source": "https://www.github.com"
   },
   {
     "key": 3,
     "title": "Weather API",
     "imageSrc": "projects/weather.jpg",
-    "description": "react project",
-    "source": "https://www.github.com"
+    "description": "This project, built with JavaScript, provides real-time weather status globally, allowing users to check current conditions and forecasts from anywhere in the world.",
+    "source": "https://github.com/AnasShaikh5335/Weather-API"
   },
   {
     "key": 4,
     "title": "Tic-Tac-Toe",
     "imageSrc": "projects/tic-tac-toe.jpg",
-    "description": "react project",
-    "source": "https://www.github.com"
+    "description": "This project, developed with JavaScript, offers an interactive Tic-Tac-Toe game, allowing players to enjoy and compete in the classic game directly through their web browser.",
+    "source": "https://github.com/AnasShaikh5335/X-0"
   }
 ]

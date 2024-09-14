@@ -14,12 +14,14 @@ const App = () => {
   }, []);
   return (
     <>
-      <Navbaar />
-      <Home />
-      <Experience />
-      <Skills />
-      <Projects />
-      <Contacts />
+      <div className="container">
+        <Navbaar />
+        <Home />
+        <Experience />
+        <Skills />
+        <Projects />
+        <Contacts />
+      </div>
     </>
   );
 };
