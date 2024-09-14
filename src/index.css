@@ -158,11 +158,12 @@ box-shadow: var(--box-shadow);
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-left: 10px;
 }
 
 .contact-icon .items{
   background-color: black;
-  margin: 50px;
+  margin: 10px;
   height: 70px;
   width: 70px;
   display: flex;
