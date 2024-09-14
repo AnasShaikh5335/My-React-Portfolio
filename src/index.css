@@ -49,9 +49,9 @@ a{
 
  .home .left{
   background-color:var(--bg-color) ;
-  width: 620px;
+  width: 900px;
   text-align: center;
-  margin-right: 350px;
+  margin-right: 300px;
   padding: 30px;
   border-radius: 10px;
   border: 1px solid yellow;
