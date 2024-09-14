@@ -14,7 +14,7 @@ const Home = () => {
         "Java Developer",
         "{React Developer}",
       ],
-      typeSpeed: 50,
+      typeSpeed: 150,
       backSpeed: 50,
       loop: true,
     };
